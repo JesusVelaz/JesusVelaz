@@ -1,10 +1,8 @@
 # Jesus Velazquez
 
-**Full-stack software engineer.** I turn complicated workflows into software people can trust.
+I'm a full stack software engineer and like to create efficient and useful applications.
 
-By day I'm a technical lead on a team building secure, data-heavy web applications with React, TypeScript, Java, and Kubernetes. On my own time I co-founded Waiver Director, a digital waiver platform for experience operators, and I build Agents Café, a place to run coding agents side by side. Most of my side-project hours now go to AI developer tools: agents, MCP, and tool calling.
-
-[Portfolio](https://jesusvelazquez.dev) · [LinkedIn](https://linkedin.com/in/jesusvelazquez980) · [Email](mailto:jesusvelazquez0980@gmail.com)
+On my own time I co-founded Waiver Director, a digital waiver platform for experience operators, and I built Agents Café, a place to run coding agents side by side. Most of my side-project hours now go to AI developer tools: agents, MCP, and tool calling.
 
 ## Agents Café
 
@@ -37,22 +35,6 @@ Next.js · TypeScript · Fastify · Prisma · SQLite · Claude Agent SDK
   </tr>
 </table>
 
-## Toolbox
-
-| | |
-|---|---|
-| **AI & LLM** | Claude Agent SDK, MCP, tool calling, LLM evaluation, Vercel AI SDK |
-| **Languages** | TypeScript, JavaScript, Python, Java, SQL, C |
-| **Frontend** | React, Next.js, SvelteKit, component libraries, Section 508 accessibility |
-| **Backend & data** | FastAPI, Fastify, REST APIs, Convex, Prisma, PostgreSQL, MySQL, Redis, SQLite |
-| **Cloud & DevOps** | Kubernetes, Helm, Argo CD, Docker, GitLab CI/CD, AWS |
-
-## Background
-
-- B.A. in Computer Science from Florida International University (2023)
-- Agentic AI certificate from MIT Lincoln Laboratory (2026)
-- Fluent in English and Spanish
-
 ## Get in touch
 
-I like hearing how other people run more than one coding agent at once. If you have Claude Code and Codex working together, or a setup that fell apart, tell me about it at [jesusvelazquez0980@gmail.com](mailto:jesusvelazquez0980@gmail.com) or in the [Agents Café issues](https://github.com/JesusVelaz/agent-cafe/issues).
+[Portfolio](https://jesusvelazquez.dev) · [LinkedIn](https://linkedin.com/in/jesusvelazquez980) · [Email](mailto:jesusvelazquez0980@gmail.com)
