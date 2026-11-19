@@ -37,7 +37,7 @@ Next.js · TypeScript · Fastify · Prisma · SQLite · Claude Agent SDK
   </tr>
 </table>
 
-## Get in touch
+## Reach me
 
 · [Portfolio](https://jesusvelazquez.dev) 
 
